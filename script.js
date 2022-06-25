@@ -12,6 +12,9 @@ function pesoealtura(imc) {
     if (imc => 40) return 'Obesidade 3'
 }
 
+function () {}
+
+
 
 
 
